@@ -1,1 +1,1 @@
-# sample git project testing JEERA RICE and DAL TADKAgit 
+# sample git project testing JEERA RICE and DAL TADKA
